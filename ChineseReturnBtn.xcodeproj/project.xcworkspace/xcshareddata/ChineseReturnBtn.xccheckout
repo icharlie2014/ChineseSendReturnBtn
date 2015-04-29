@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>928CA1C0-CD0F-43F8-ACA5-CD948FD7F802</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ChineseReturnBtn</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>147FD95FCC3ED02271D0A3163FB329E3D7014314</key>
+		<string>https://github.com/icharlie2014/ChineseSendReturnBtn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChineseReturnBtn.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>147FD95FCC3ED02271D0A3163FB329E3D7014314</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/icharlie2014/ChineseSendReturnBtn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>147FD95FCC3ED02271D0A3163FB329E3D7014314</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>147FD95FCC3ED02271D0A3163FB329E3D7014314</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ChineseSendReturnBtn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
